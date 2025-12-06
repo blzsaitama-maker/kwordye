@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///home/daniel/Documents/kwordye/front/app/layout.js"],"sourcesContent":["import './globals.css'\nexport const metadata = { title: 'Kwordye API Docs', description: 'Documentação da API Kwordye' }\nexport default function RootLayout({ children }) {\n  return (<html lang=\"pt\"><body>{children}</body></html>)\n}\n"],"names":[],"mappings":";;;;;;;;;AACO,MAAM,WAAW;IAAE,OAAO;IAAoB,aAAa;AAA8B;AACjF,SAAS,WAAW,EAAE,QAAQ,EAAE;IAC7C,qBAAQ,+QAAC;QAAK,MAAK;kBAAK,cAAA,+QAAC;sBAAM;;;;;;;;;;;AACjC"}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":["file:///home/daniel/Documents/kwordye/front/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,oJACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}
